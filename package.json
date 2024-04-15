@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
+    "connect-mongodb-session": "^5.0.0",
     "cron": "^3.1.7",
     "ejs": "^3.1.9",
     "express": "^4.19.2",
