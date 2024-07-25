@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js",
-    "vercel-build": "nodemon app.js",
+    "start": "node app.js",
+    "vercel-build": "node app.js",
     "build": "echo \"Building the project...\""
   },
   "author": "",
